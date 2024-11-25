@@ -54,8 +54,11 @@ Y claramente un mantenimiento de éste modelo puede ser clave para tratar esta e
 Usaremos una base de datos en *Kaggle*, que recopila imágenes de radiografías de tórax, etiquetadas en 2 categorías:
 
 * Normal (muestra pulmones limpios, visíbles)
+
 ![imagen](https://github.com/user-attachments/assets/aefd7899-84dc-46a0-9cdd-e807d4481bb6)
+
 * Pneumonía (Podemos apreciar blancuzca la zona, no podemos ver los dos pulmones en su totalidad)
+  
 ![imagen](https://github.com/user-attachments/assets/2780a43e-1d90-4284-8919-83ba40c4c361)
 
 Este dataset se encuentra en el siguiente link:
